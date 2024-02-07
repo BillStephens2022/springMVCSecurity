@@ -10,16 +10,16 @@ to routes/content that "regular" Employees can't access.
 ### App Screenshots
 
 #### Login Page
-![login page](/screenshot1.png)
+![login page](/Screenshot1.png)
 
 #### All Employees Page
-![employees page](/screenshot2.png)
+![employees page](/Screenshot2.png)
 
 #### Managers Only Page
-![leaders page](/screenshot3.png)
+![leaders page](/Screenshot3.png)
 
 #### Admin Only Page
-![systems page](/screenshot4.png)
+![systems page](/Screenshot4.png)
 
 ## Table of Contents
 
